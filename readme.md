@@ -32,6 +32,7 @@ $formatter->setNumber(1000)->format('0,0');
 
 // solution 2
 Numeral::setNumber(1000)->format('0,0');
+```
 
 
 ### Numbers
@@ -71,4 +72,4 @@ license. Please see the [license file](license.md) for more information.
 [link-styleci]: https://styleci.io/repos/12345678
 [link-author]: https://github.com/hrbmt
 [link-contributors]: ../../contributors
-```
+
